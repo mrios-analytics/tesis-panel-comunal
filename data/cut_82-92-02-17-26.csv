@@ -1,0 +1,347 @@
+cut82,cut92,cut02,cut2026,muni_string,region_id,region_string
+210,1101,1101,1101,Iquique,1,Tarapacá
+210,1107,1107,1107,Alto Hospicio,1,Tarapacá
+215,1106,1106,1401,Pozo Almonte,1,Tarapacá
+212,1102,1102,1402,Camiña,1,Tarapacá
+213,1103,1103,1403,Colchane,1,Tarapacá
+211,1104,1104,1404,Huara,1,Tarapacá
+214,1105,1105,1405,Pica,1,Tarapacá
+230,2101,2101,2101,Antofagasta,2,Antofagasta
+231,2102,2102,2102,Mejillones,2,Antofagasta
+232,2103,2103,2103,Sierra Gorda,2,Antofagasta
+233,2104,2104,2104,Taltal,2,Antofagasta
+225,2201,2201,2201,Calama,2,Antofagasta
+226,2202,2202,2202,Ollagüe,2,Antofagasta
+227,2203,2203,2203,San Pedro de Atacama,2,Antofagasta
+220,2301,2301,2301,Tocopilla,2,Antofagasta
+221,2302,2302,2302,María Elena,2,Antofagasta
+240,3101,3101,3101,Copiapó,3,Atacama
+241,3102,3102,3102,Caldera,3,Atacama
+242,3103,3103,3103,Tierra Amarilla,3,Atacama
+235,3201,3201,3201,Chañaral,3,Atacama
+236,3202,3202,3202,Diego de Almagro,3,Atacama
+245,3301,3301,3301,Vallenar,3,Atacama
+248,3302,3302,3302,Alto del Carmen,3,Atacama
+246,3303,3303,3303,Freirina,3,Atacama
+247,3304,3304,3304,Huasco,3,Atacama
+250,4101,4101,4101,La Serena,4,Coquimbo
+252,4102,4102,4102,Coquimbo,4,Coquimbo
+253,4103,4103,4103,Andacollo,4,Coquimbo
+251,4104,4104,4104,La Higuera,4,Coquimbo
+255,4105,4105,4105,Paiguano,4,Coquimbo
+254,4106,4106,4106,Vicuña,4,Coquimbo
+270,4201,4201,4201,Illapel,4,Coquimbo
+273,4202,4202,4202,Canela,4,Coquimbo
+272,4203,4203,4203,Los Vilos,4,Coquimbo
+271,4204,4204,4204,Salamanca,4,Coquimbo
+260,4301,4301,4301,Ovalle,4,Coquimbo
+263,4302,4302,4302,Combarbalá,4,Coquimbo
+262,4303,4303,4303,Monte Patria,4,Coquimbo
+264,4304,4304,4304,Punitaqui,4,Coquimbo
+261,4305,4305,4305,Río Hurtado,4,Coquimbo
+310,5101,5101,5101,Valparaíso,5,Valparaíso
+316,5102,5102,5102,Casablanca,5,Valparaíso
+318,5103,5103,5103,Concón,5,Valparaíso
+317,5104,5104,5104,Juan Fernández,5,Valparaíso
+313,5105,5105,5105,Puchuncaví,5,Valparaíso
+312,5107,5107,5107,Quintero,5,Valparaíso
+311,5109,5109,5109,Viña del Mar,5,Valparaíso
+330,5201,5201,5201,Isla de Pascua,5,Valparaíso
+285,5301,5301,5301,Los Andes,5,Valparaíso
+287,5302,5302,5302,Calle Larga,5,Valparaíso
+288,5303,5303,5303,Rinconada,5,Valparaíso
+286,5304,5304,5304,San Esteban,5,Valparaíso
+275,5401,5401,5401,La Ligua,5,Valparaíso
+277,5402,5402,5402,Cabildo,5,Valparaíso
+279,5403,5403,5403,Papudo,5,Valparaíso
+276,5404,5404,5404,Petorca,5,Valparaíso
+278,5405,5405,5405,Zapallar,5,Valparaíso
+300,5501,5501,5501,Quillota,5,Valparaíso
+302,5502,5502,5502,Calera,5,Valparaíso
+304,5503,5503,5503,Hijuelas,5,Valparaíso
+301,5504,5504,5504,La Cruz,5,Valparaíso
+303,5506,5506,5506,Nogales,5,Valparaíso
+320,5601,5601,5601,San Antonio,5,Valparaíso
+324,5602,5602,5602,Algarrobo,5,Valparaíso
+321,5603,5603,5603,Cartagena,5,Valparaíso
+323,5604,5604,5604,El Quisco,5,Valparaíso
+322,5605,5605,5605,El Tabo,5,Valparaíso
+325,5606,5606,5606,Santo Domingo,5,Valparaíso
+290,5701,5701,5701,San Felipe,5,Valparaíso
+295,5702,5702,5702,Catemu,5,Valparaíso
+294,5703,5703,5703,Llaillay,5,Valparaíso
+293,5704,5704,5704,Panquehue,5,Valparaíso
+291,5705,5705,5705,Putaendo,5,Valparaíso
+292,5706,5706,5706,Santa María,5,Valparaíso
+314,5106,5106,5801,Quilpué,5,Valparaíso
+305,5505,5505,5802,Limache,5,Valparaíso
+306,5507,5507,5803,Olmué,5,Valparaíso
+315,5108,5108,5804,Villa Alemana,5,Valparaíso
+335,6101,6101,6101,Rancagua,6,Libertador General Bernardo O'Higgins
+338,6102,6102,6102,Codegua,6,Libertador General Bernardo O'Higgins
+349,6103,6103,6103,Coinco,6,Libertador General Bernardo O'Higgins
+348,6104,6104,6104,Coltauco,6,Libertador General Bernardo O'Higgins
+350,6105,6105,6105,Doñihue,6,Libertador General Bernardo O'Higgins
+336,6106,6106,6106,Graneros,6,Libertador General Bernardo O'Higgins
+351,6107,6107,6107,Las Cabras,6,Libertador General Bernardo O'Higgins
+339,6108,6108,6108,Machalí,6,Libertador General Bernardo O'Higgins
+343,6109,6109,6109,Malloa,6,Libertador General Bernardo O'Higgins
+337,6110,6110,6110,Mostazal,6,Libertador General Bernardo O'Higgins
+340,6111,6111,6111,Olivar,6,Libertador General Bernardo O'Higgins
+347,6112,6112,6112,Peumo,6,Libertador General Bernardo O'Higgins
+346,6113,6113,6113,Pichidegua,6,Libertador General Bernardo O'Higgins
+344,6114,6114,6114,Quinta de Tilcoco,6,Libertador General Bernardo O'Higgins
+342,6115,6115,6115,Rengo,6,Libertador General Bernardo O'Higgins
+341,6116,6116,6116,Requínoa,6,Libertador General Bernardo O'Higgins
+345,6117,6117,6117,San Vicente,6,Libertador General Bernardo O'Higgins
+370,6201,6201,6201,Pichilemu,6,Libertador General Bernardo O'Higgins
+373,6202,6202,6202,La Estrella,6,Libertador General Bernardo O'Higgins
+372,6203,6203,6203,Litueche,6,Libertador General Bernardo O'Higgins
+374,6204,6204,6204,Marchihue,6,Libertador General Bernardo O'Higgins
+371,6205,6205,6205,Navidad,6,Libertador General Bernardo O'Higgins
+375,6206,6206,6206,Paredones,6,Libertador General Bernardo O'Higgins
+355,6301,6301,6301,San Fernando,6,Libertador General Bernardo O'Higgins
+359,6302,6302,6302,Chépica,6,Libertador General Bernardo O'Higgins
+356,6303,6303,6303,Chimbarongo,6,Libertador General Bernardo O'Higgins
+361,6304,6304,6304,Lolol,6,Libertador General Bernardo O'Higgins
+358,6305,6305,6305,Nancagua,6,Libertador General Bernardo O'Higgins
+363,6306,6306,6306,Palmilla,6,Libertador General Bernardo O'Higgins
+364,6307,6307,6307,Peralillo,6,Libertador General Bernardo O'Higgins
+357,6308,6308,6308,Placilla,6,Libertador General Bernardo O'Higgins
+362,6309,6309,6309,Pumanque,6,Libertador General Bernardo O'Higgins
+360,6310,6310,6310,Santa Cruz,6,Libertador General Bernardo O'Higgins
+390,7101,7101,7101,Talca,7,Maule
+397,7102,7102,7102,Constitución,7,Maule
+398,7103,7103,7103,Curepto,7,Maule
+395,7104,7104,7104,Empedrado,7,Maule
+394,7105,7105,7105,Maule,7,Maule
+391,7106,7106,7106,Pelarco,7,Maule
+396,7107,7107,7107,Pencahue,7,Maule
+392,7108,7108,7108,Río Claro,7,Maule
+393,7109,7109,7109,San Clemente,7,Maule
+399,7110,7110,7110,San Rafael,7,Maule
+410,7201,7201,7201,Cauquenes,7,Maule
+412,7202,7202,7202,Chanco,7,Maule
+411,7203,7203,7203,Pelluhue,7,Maule
+380,7301,7301,7301,Curicó,7,Maule
+385,7302,7302,7302,Hualañé,7,Maule
+386,7303,7303,7303,Licantén,7,Maule
+383,7304,7304,7304,Molina,7,Maule
+388,7305,7305,7305,Rauco,7,Maule
+382,7306,7306,7306,Romeral,7,Maule
+384,7307,7307,7307,Sagrada Familia,7,Maule
+381,7308,7308,7308,Teno,7,Maule
+387,7309,7309,7309,Vichuquén,7,Maule
+400,7401,7401,7401,Linares,7,Maule
+402,7402,7402,7402,Colbún,7,Maule
+403,7403,7403,7403,Longaví,7,Maule
+404,7404,7404,7404,Parral,7,Maule
+405,7405,7405,7405,Retiro,7,Maule
+407,7406,7406,7406,San Javier,7,Maule
+406,7407,7407,7407,Villa Alegre,7,Maule
+401,7408,7408,7408,Yerbas Buenas,7,Maule
+455,8101,8101,8101,Concepción,8,Biobío
+463,8102,8102,8102,Coronel,8,Biobío
+474,8103,8103,8103,Chiguayante,8,Biobío
+459,8104,8104,8104,Florida,8,Biobío
+460,8105,8105,8105,Hualqui,8,Biobío
+462,8106,8106,8106,Lota,8,Biobío
+457,8107,8107,8107,Penco,8,Biobío
+464,8108,8108,8108,San Pedro de la Paz,8,Biobío
+461,8109,8109,8109,Santa Juana,8,Biobío
+456,8110,8110,8110,Talcahuano,8,Biobío
+458,8111,8111,8111,Tomé,8,Biobío
+456,8112,8112,8112,Hualpén,8,Biobío
+465,8201,8201,8201,Lebu,8,Biobío
+466,8202,8202,8202,Arauco,8,Biobío
+469,8203,8203,8203,Cañete,8,Biobío
+470,8204,8204,8204,Contulmo,8,Biobío
+467,8205,8205,8205,Curanilahue,8,Biobío
+468,8206,8206,8206,Los Álamos,8,Biobío
+471,8207,8207,8207,Tirúa,8,Biobío
+440,8301,8301,8301,Los Ángeles,8,Biobío
+443,8302,8302,8302,Antuco,8,Biobío
+441,8303,8303,8303,Cabrero,8,Biobío
+450,8304,8304,8304,Laja,8,Biobío
+447,8305,8305,8305,Mulchén,8,Biobío
+449,8306,8306,8306,Nacimiento,8,Biobío
+448,8307,8307,8307,Negrete,8,Biobío
+446,8308,8308,8308,Quilaco,8,Biobío
+444,8309,8309,8309,Quilleco,8,Biobío
+451,8310,8310,8310,San Rosendo,8,Biobío
+445,8311,8311,8311,Santa Bárbara,8,Biobío
+442,8312,8312,8312,Tucapel,8,Biobío
+452,8313,8313,8313,Yumbel,8,Biobío
+445,8314,8314,8314,Alto Biobío,8,Biobío
+490,9101,9101,9101,Temuco,9,La Araucanía
+506,9102,9102,9102,Carahue,9,La Araucanía
+494,9103,9103,9103,Cunco,9,La Araucanía
+496,9104,9104,9104,Curarrehue,9,La Araucanía
+499,9105,9105,9105,Freire,9,La Araucanía
+508,9106,9106,9106,Galvarino,9,La Araucanía
+501,9107,9107,9107,Gorbea,9,La Araucanía
+491,9108,9108,9108,Lautaro,9,La Araucanía
+502,9109,9109,9109,Loncoche,9,La Araucanía
+495,9110,9110,9110,Melipeuco,9,La Araucanía
+507,9111,9111,9111,Nueva Imperial,9,La Araucanía
+509,9112,9112,9112,Padre Las Casas,9,La Araucanía
+492,9113,9113,9113,Perquenco,9,La Araucanía
+500,9114,9114,9114,Pitrufquén,9,La Araucanía
+497,9115,9115,9115,Pucón,9,La Araucanía
+505,9116,9116,9116,Saavedra,9,La Araucanía
+504,9117,9117,9117,Teodoro Schmidt,9,La Araucanía
+503,9118,9118,9118,Toltén,9,La Araucanía
+493,9119,9119,9119,Vilcún,9,La Araucanía
+498,9120,9120,9120,Villarrica,9,La Araucanía
+507,9121,9121,9121,Cholchol,9,La Araucanía
+475,9201,9201,9201,Angol,9,La Araucanía
+477,9202,9202,9202,Collipulli,9,La Araucanía
+479,9203,9203,9203,Curacautín,9,La Araucanía
+480,9204,9204,9204,Ercilla,9,La Araucanía
+478,9205,9205,9205,Lonquimay,9,La Araucanía
+485,9206,9206,9206,Los Sauces,9,La Araucanía
+483,9207,9207,9207,Lumaco,9,La Araucanía
+484,9208,9208,9208,Purén,9,La Araucanía
+476,9209,9209,9209,Renaico,9,La Araucanía
+482,9210,9210,9210,Traiguén,9,La Araucanía
+481,9211,9211,9211,Victoria,9,La Araucanía
+535,10101,10101,10101,Puerto Montt,10,Los Lagos
+538,10102,10102,10102,Calbuco,10,Los Lagos
+537,10103,10103,10103,Cochamó,10,Los Lagos
+541,10104,10104,10104,Fresia,10,Los Lagos
+543,10105,10105,10105,Frutillar,10,Los Lagos
+540,10106,10106,10106,Los Muermos,10,Los Lagos
+542,10107,10107,10107,Llanquihue,10,Los Lagos
+539,10108,10108,10108,Maullín,10,Los Lagos
+536,10109,10109,10109,Puerto Varas,10,Los Lagos
+545,10201,10201,10201,Castro,10,Los Lagos
+546,10202,10202,10202,Ancud,10,Los Lagos
+552,10203,10203,10203,Chonchi,10,Los Lagos
+549,10204,10204,10204,Curaco de Vélez,10,Los Lagos
+548,10205,10205,10205,Dalcahue,10,Los Lagos
+551,10206,10206,10206,Puqueldón,10,Los Lagos
+553,10207,10207,10207,Queilén,10,Los Lagos
+554,10208,10208,10208,Quellón,10,Los Lagos
+547,10209,10209,10209,Quemchi,10,Los Lagos
+550,10210,10210,10210,Quinchao,10,Los Lagos
+525,10301,10301,10301,Osorno,10,Los Lagos
+528,10302,10302,10302,Puerto Octay,10,Los Lagos
+529,10303,10303,10303,Purranque,10,Los Lagos
+527,10304,10304,10304,Puyehue,10,Los Lagos
+530,10305,10305,10305,Río Negro,10,Los Lagos
+531,10306,10306,10306,San Juan de la Costa,10,Los Lagos
+526,10307,10307,10307,San Pablo,10,Los Lagos
+560,10401,10401,10401,Chaitén,10,Los Lagos
+562,10402,10402,10402,Futaleufú,10,Los Lagos
+561,10403,10403,10403,Hualaihué,10,Los Lagos
+563,10404,10404,10404,Palena,10,Los Lagos
+565,11101,11101,11101,Coyhaique,11,Aysén del General Carlos Ibáñez del Campo
+566,11102,11102,11102,Lago Verde,11,Aysén del General Carlos Ibáñez del Campo
+570,11201,11201,11201,Aysén,11,Aysén del General Carlos Ibáñez del Campo
+571,11202,11202,11202,Cisnes,11,Aysén del General Carlos Ibáñez del Campo
+572,11203,11203,11203,Guaitecas,11,Aysén del General Carlos Ibáñez del Campo
+580,11301,11301,11301,Cochrane,11,Aysén del General Carlos Ibáñez del Campo
+581,11302,11302,11302,O'Higgins,11,Aysén del General Carlos Ibáñez del Campo
+582,11303,11303,11303,Tortel,11,Aysén del General Carlos Ibáñez del Campo
+575,11401,11401,11401,Chile Chico,11,Aysén del General Carlos Ibáñez del Campo
+576,11402,11402,11402,Río Ibáñez,11,Aysén del General Carlos Ibáñez del Campo
+590,12101,12101,12101,Punta Arenas,12,Magallanes y de la Antártica Chilena
+592,12102,12102,12102,Laguna Blanca,12,Magallanes y de la Antártica Chilena
+591,12103,12103,12103,Río Verde,12,Magallanes y de la Antártica Chilena
+593,12104,12104,12104,San Gregorio,12,Magallanes y de la Antártica Chilena
+600,12201,12201,12201,Cabo de Hornos,12,Magallanes y de la Antártica Chilena
+601,12202,12202,12202,Antártica,12,Magallanes y de la Antártica Chilena
+595,12301,12301,12301,Porvenir,12,Magallanes y de la Antártica Chilena
+596,12302,12302,12302,Primavera,12,Magallanes y de la Antártica Chilena
+597,12303,12303,12303,Timaukel,12,Magallanes y de la Antártica Chilena
+585,12401,12401,12401,Natales,12,Magallanes y de la Antártica Chilena
+586,12402,12402,12402,Torres del Paine,12,Magallanes y de la Antártica Chilena
+605,13101,13101,13101,Santiago,13,Metropolitana de Santiago
+629,13102,13102,13102,Cerrillos,13,Metropolitana de Santiago
+634,13103,13103,13103,Cerro Navia,13,Metropolitana de Santiago
+607,13104,13104,13104,Conchalí,13,Metropolitana de Santiago
+625,13105,13105,13105,El Bosque,13,Metropolitana de Santiago
+628,13106,13106,13106,Estación Central,13,Metropolitana de Santiago
+608,13107,13107,13107,Huechuraba,13,Metropolitana de Santiago
+606,13108,13108,13108,Independencia,13,Metropolitana de Santiago
+624,13109,13109,13109,La Cisterna,13,Metropolitana de Santiago
+618,13110,13110,13110,La Florida,13,Metropolitana de Santiago
+620,13111,13111,13111,La Granja,13,Metropolitana de Santiago
+621,13112,13112,13112,La Pintana,13,Metropolitana de Santiago
+615,13113,13113,13113,La Reina,13,Metropolitana de Santiago
+613,13114,13114,13114,Las Condes,13,Metropolitana de Santiago
+612,13115,13115,13115,Lo Barnechea,13,Metropolitana de Santiago
+627,13116,13116,13116,Lo Espejo,13,Metropolitana de Santiago
+632,13117,13117,13117,Lo Prado,13,Metropolitana de Santiago
+616,13118,13118,13118,Macul,13,Metropolitana de Santiago
+630,13119,13119,13119,Maipú,13,Metropolitana de Santiago
+614,13120,13120,13120,Ñuñoa,13,Metropolitana de Santiago
+626,13121,13121,13121,Pedro Aguirre Cerda,13,Metropolitana de Santiago
+617,13122,13122,13122,Peñalolén,13,Metropolitana de Santiago
+610,13123,13123,13123,Providencia,13,Metropolitana de Santiago
+633,13124,13124,13124,Pudahuel,13,Metropolitana de Santiago
+636,13125,13125,13125,Quilicura,13,Metropolitana de Santiago
+631,13126,13126,13126,Quinta Normal,13,Metropolitana de Santiago
+609,13127,13127,13127,Recoleta,13,Metropolitana de Santiago
+635,13128,13128,13128,Renca,13,Metropolitana de Santiago
+619,13129,13129,13129,San Joaquín,13,Metropolitana de Santiago
+623,13130,13130,13130,San Miguel,13,Metropolitana de Santiago
+622,13131,13131,13131,San Ramón,13,Metropolitana de Santiago
+611,13132,13132,13132,Vitacura,13,Metropolitana de Santiago
+645,13201,13201,13201,Puente Alto,13,Metropolitana de Santiago
+647,13202,13202,13202,Pirque,13,Metropolitana de Santiago
+646,13203,13203,13203,San José de Maipo,13,Metropolitana de Santiago
+640,13301,13301,13301,Colina,13,Metropolitana de Santiago
+641,13302,13302,13302,Lampa,13,Metropolitana de Santiago
+642,13303,13303,13303,Tiltil,13,Metropolitana de Santiago
+650,13401,13401,13401,San Bernardo,13,Metropolitana de Santiago
+651,13402,13402,13402,Buin,13,Metropolitana de Santiago
+653,13403,13403,13403,Calera de Tango,13,Metropolitana de Santiago
+652,13404,13404,13404,Paine,13,Metropolitana de Santiago
+660,13501,13501,13501,Melipilla,13,Metropolitana de Santiago
+663,13502,13502,13502,Alhué,13,Metropolitana de Santiago
+662,13503,13503,13503,Curacaví,13,Metropolitana de Santiago
+661,13504,13504,13504,María Pinto,13,Metropolitana de Santiago
+664,13505,13505,13505,San Pedro,13,Metropolitana de Santiago
+670,13601,13601,13601,Talagante,13,Metropolitana de Santiago
+673,13602,13602,13602,El Monte,13,Metropolitana de Santiago
+672,13603,13603,13603,Isla de Maipo,13,Metropolitana de Santiago
+674,13604,13604,13604,Padre Hurtado,13,Metropolitana de Santiago
+671,13605,13605,13605,Peñaflor,13,Metropolitana de Santiago
+510,10501,10501,14101,Valdivia,14,Los Ríos
+515,10502,10502,14102,Corral,14,Los Ríos
+512,10506,10506,14103,Lanco,14,Los Ríos
+513,10507,10507,14104,Los Lagos,14,Los Ríos
+516,10508,10508,14105,Máfil,14,Los Ríos
+511,10509,10509,14106,Mariquina,14,Los Ríos
+519,10510,10510,14107,Paillaco,14,Los Ríos
+517,10511,10511,14108,Panguipulli,14,Los Ríos
+518,10504,10504,14201,La Unión,14,Los Ríos
+514,10503,10503,14202,Futrono,14,Los Ríos
+521,10505,10505,14203,Lago Ranco,14,Los Ríos
+520,10512,10512,14204,Río Bueno,14,Los Ríos
+201,1201,1201,15101,Arica,15,Arica y Parinacota
+202,1202,1202,15102,Camarones,15,Arica y Parinacota
+205,1301,1301,15201,Putre,15,Arica y Parinacota
+206,1302,1302,15202,General Lagos,15,Arica y Parinacota
+415,8401,8401,16101,Chillán,16,Ñuble
+425,8402,8402,16102,Bulnes,16,Ñuble
+435,8406,8406,16103,Chillán Viejo,16,Ñuble
+422,8407,8407,16104,El Carmen,16,Ñuble
+424,8410,8410,16105,Pemuco,16,Ñuble
+420,8411,8411,16106,Pinto,16,Ñuble
+426,8413,8413,16107,Quillón,16,Ñuble
+421,8418,8418,16108,San Ignacio,16,Ñuble
+423,8421,8421,16109,Yungay,16,Ñuble
+432,8414,8414,16201,Quirihue,16,Ñuble
+431,8403,8403,16202,Cobquecura,16,Ñuble
+429,8404,8404,16203,Coelemu,16,Ñuble
+433,8408,8408,16204,Ninhue,16,Ñuble
+428,8412,8412,16205,Portezuelo,16,Ñuble
+427,8415,8415,16206,Ránquil,16,Ñuble
+430,8420,8420,16207,Treguaco,16,Ñuble
+416,8416,8416,16301,San Carlos,16,Ñuble
+419,8405,8405,16302,Coihueco,16,Ñuble
+417,8409,8409,16303,Ñiquén,16,Ñuble
+418,8417,8417,16304,San Fabián,16,Ñuble
+434,8419,8419,16305,San Nicolás,16,Ñuble
